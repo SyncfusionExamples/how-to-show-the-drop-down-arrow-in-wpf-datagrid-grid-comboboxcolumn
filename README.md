@@ -55,3 +55,5 @@ In [WPF DataGrid](https://www.syncfusion.com/wpf-controls/datagrid) (SfDataGrid)
 ```
 
 ![GridComboBoxColumn DropDown](GridComboBoxColumn_DropDown.png)
+
+KB article - [How to show the DropDownArrow in WPF DataGrid (SfDataGrid) GridComboBoxColumn](https://www.syncfusion.com/kb/12597/how-to-show-the-dropdown-arrow-in-wpf-datagrid-sfdatagrid-gridcomboboxcolumn) 
